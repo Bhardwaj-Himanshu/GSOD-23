@@ -135,9 +135,9 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
 
 ### DAY 1
 - Achieved
-   [] Made a cool looking demo
+   -[] Made a cool looking demo
 - Not able to achieve
-   [] Need to host the website
-   [] Figure out how to change default images
-   [] Changing the color-scheme to fit
-   [] Adding accurate and new content to the guide
+   -[] Need to host the website
+   -[] Figure out how to change default images
+   -[] Changing the color-scheme to fit
+   -[] Adding accurate and new content to the guide
