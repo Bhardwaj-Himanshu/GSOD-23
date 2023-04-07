@@ -135,7 +135,7 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
 
 ### DAY 1
 - Achieved
-   - [x ] Made a cool looking demo
+   - [x] Made a cool looking demo
 - Not able to achieve
    - [ ] Need to host the website
    - [ ] Figure out how to change default images
