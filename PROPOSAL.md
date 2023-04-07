@@ -131,7 +131,7 @@ I have created a [Github-Repo](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GS
 Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GSOD-23/blob/main/README.md).
 
 
-## Currently Working on the docusaurus Website
+## Currently Working on the docusaurus Website [Tutorial-Link](https://www.youtube.com/watch?v=I-hYKNgaMmE)
 
 ### DAY 1
 - Achieved
