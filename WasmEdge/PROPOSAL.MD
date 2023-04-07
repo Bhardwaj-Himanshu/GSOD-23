@@ -128,7 +128,7 @@ Coming onto Open-Source, as being just a admirer of how people provide things an
 
 
 I have created a [Github-Repo](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GSOD-23) for my this year's submissions, if you want to check out.
-Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GSOD-23/blob/main/README.md).
+Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.com/Bhardwaj-Himanshu/GSOD_2023/blob/main/WasmEdge/PROPOSAL.MD).
 
 
 ## Currently Working on the docusaurus Website [Tutorial-Link](https://www.youtube.com/watch?v=I-hYKNgaMmE)
