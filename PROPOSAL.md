@@ -26,7 +26,7 @@ My major programming language was C++ until I started procastinating on which on
 I have **do have a little open source experience as of now**. But I do want to want to contribute to open source and GSOD felt great! About how experienced am I with 
 
 - Writing Markdown files([Example-1](https://github.com/Bhardwaj-Himanshu/GSOC_SUBMISSION_2023/blob/main/README.md), [Example-2](https://github.com/Bhardwaj-Himanshu/GSOC_SUBMISSION_2023/blob/main/Internet%20Health%20Report/PROPOSAL.MD), [Example-3](https://github.com/Bhardwaj-Himanshu/Bhardwaj-Himanshu/blob/main/README.md))
-- Working on pushing into a [INSTALL.MD](https://github.com/google/gcp_scanner/blob/main/INSTALL.md) file for an organisation([gcp_scanner](https://github.com/google/gcp_scanner))
+- Successfully pushed into a [INSTALL.MD](https://github.com/google/gcp_scanner/blob/main/INSTALL.md) file for an organisation([gcp_scanner](https://github.com/google/gcp_scanner/pull/131))
 
 **Homework**
 =====================
@@ -136,8 +136,8 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
 ### DAY 1
 - Achieved
  - Made a cool looking demo
--Not able to achieve
- -Need to host the website
- -Figure out how to change default images
- -Changing the color-scheme to fit
- -Adding accurate and new content to the guide
+- Not able to achieve
+ - Need to host the website
+ - Figure out how to change default images
+ - Changing the color-scheme to fit
+ - Adding accurate and new content to the guide
