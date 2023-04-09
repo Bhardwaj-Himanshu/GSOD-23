@@ -132,7 +132,7 @@ I have created a [Github-Repo](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GS
 Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.com/Bhardwaj-Himanshu/GSOD_2023/blob/main/WasmEdge/PROPOSAL.MD).
 
 
-## Currently Working on the docusaurus Website [Tutorial-Link](https://www.youtube.com/watch?v=I-hYKNgaMmE)
+## Currently Working on the docusaurus Website [Tutorial-Link](https://bhardwaj-himanshu.github.io/my-wasmu-website/)
 
 ### TO-DO-LIST
 - These are the things that have been done with the website.
