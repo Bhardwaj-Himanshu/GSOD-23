@@ -143,6 +143,6 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
    - [x] Adding accurate and new content to the guide
    - [x] Integrating CI/CD pipelines
    - [ ] Make tutorial videos with voice and publish on youtube
-         - [x] Record the video
-         - [ ] Record the audio
-         - [ ] Make an advertisement around it
+     - [x] Record the video
+     - [ ] Record the audio
+     - [ ] Make an advertisement around it
