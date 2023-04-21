@@ -31,7 +31,7 @@ I have **do have a little open source experience as of now**. But I do want to w
 **Homework**
 =====================
 - Created a Tutorial for WasmEdge using docusaurus which is [deployed_here](https://bhardwaj-himanshu.github.io/my-wasmu-website/).
-  - working on integrating CI/CD pipelines now in it. 
+  - deployed using gh-pages and little CI/CD.
 - Getting my hands on the codebase.
 - Getting familiar with the WasmEdge as a whole and figuring out how it works.
 
@@ -142,7 +142,7 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
    - [x] Changing the color-scheme to fit
    - [x] Adding accurate and new content to the guide
    - [x] Integrating CI/CD pipelines
-   - [ ] Make tutorial videos with voice and publish on youtube
+   - [x] Make tutorial videos with voice and publish on youtube
      - [x] Record the video
-     - [ ] Record the audio
-     - [ ] Make an advertisement around it
+     - [x] Record the audio
+     
