@@ -2,11 +2,9 @@
 =====================
 - Name: Himanshu Bhardwaj
 - Email: himanshujay261201@gmail.com
-- Github: [Bhardwaj-Himanshu](https://github.com/Bhardwaj-Himanshu)
+- GitHub: [Bhardwaj-Himanshu](https://github.com/Bhardwaj-Himanshu)
 - Location: Bengaluru, India
 - Time Zone: GMT+5:30
-- University: Ramaiah Institute of Technology
-- Major: Mechanical Engineering
 - LinkedIn:[Himanshu-Bhardwaj](https://www.linkedin.com/in/himanshu--bhardwaj/)
 
 **Project Description**
@@ -28,68 +26,46 @@ I have **do have a little open source experience as of now**. But I do want to w
 - Writing Markdown files([Example-1](https://github.com/Bhardwaj-Himanshu/GSOC_SUBMISSION_2023/blob/main/README.md), [Example-2](https://github.com/Bhardwaj-Himanshu/GSOC_SUBMISSION_2023/blob/main/Internet%20Health%20Report/PROPOSAL.MD), [Example-3](https://github.com/Bhardwaj-Himanshu/Bhardwaj-Himanshu/blob/main/README.md))
 - Successfully pushed into a [INSTALL.MD](https://github.com/google/gcp_scanner/blob/main/INSTALL.md) file for an organisation([gcp_scanner](https://github.com/google/gcp_scanner/pull/131))
 
-**Homework**
-=====================
-- Created a Tutorial for WasmEdge using docusaurus which is [deployed_here](https://bhardwaj-himanshu.github.io/my-wasmu-website/).
-  - deployed using gh-pages and little CI/CD.
-- Getting my hands on the codebase.
-- Getting familiar with the WasmEdge as a whole and figuring out how it works.
-
 **Plan**
 =====================
-
-
- - ## How Documenting helps?
+- ## How I look at it?
  
- 
- 1. **Facilitating Collaboration**:Documenting a codebase can help multiple developers to work on the same codebase without any conflicts. *Documenting the codebase can help developers to understand each other's code and collaborate more effectively.*
-    
-2.  **Easing Maintenance**: Documenting a codebase can make it easier to maintain the code. It helps to keep track of what different parts of the code do and how they are connected. *This makes it easier to identify and fix bugs, add new features, or make changes to the code in the future.*
-    
-3.  **Onboarding New Developers**: Documenting a codebase can also help onboard new developers to the team or project. *When new developers join a project, they can quickly get up to speed on the codebase by referring to the documentation.*    
+ 1.  **Easier onboarding New Developers**: Documenting a codebase is only effective if it is easily understandable by a new contributor, *making use of interactive gif's, videos and jotting down bigger steps into smaller ones help*, the person to work at his/her pace with little stress levels of breaking anything .*    
 
-4.  **Knowledge Transfer**: *Documenting a codebase is also an effective way to transfer knowledge from one developer to another. When a developer leaves a project, they can leave behind documentation that will help their successor understand the codebase.*
+2.  **Knowledge Transfer**: *Documenting a codebase is also an effective way to transfer knowledge from one developer to another. When a developer leaves a project, they can leave behind documentation that will help their successor understand the codebase.*
     
-5.  **Improving Code Quality**: *When developers document their code, they tend to write cleaner, more organized code that is easier to understand and maintain. This can help prevent bugs and make the code more scalable.* 
+3.  **Improving Code Quality**: *When developers document their code, they tend to write cleaner, more organized code that is easier to understand and maintain. This can help prevent bugs and make the code more scalable. * 
     
-- ## Steps
+- ## **Steps**
 - Writing the content
-               - Yes, this just involves writing the content but let's see how are we going to achieve that, "cause it's easier said than done".
-### Architectural Overview
+               - Yes, this just involves writing the content but let's see how we are going to achieve that, "cause it's easier said than done".
+
+### Guide for Plugins
+
+Plug-ins play a very major role, keeping the major role in mind--> errors while writing plug-in code should be avoided and hence, I would a major chunk of time learning about the building as well usage of plug-ins before making a contribution guide for it.
+
+This would give maximum time to reconsider changes as well as fix some bugs, until they are implemented over the website.
+Don't worry a basic structures of 
+   - how they work?
+   - what are they?
+   - what all technologies are involved?
+   - how to use them?
+Would be plotted down and the code syntax would only be left for filling.  
 
 
-     This could probably include the architecutres the program uses behind the curtains for installation.
-With some flowcharts on explainations of the systems linking and acting together.
-    
-Image-1 ![](https://user-images.githubusercontent.com/74407676/229855081-99c673a7-0a41-488f-87e1-23d5f177a52d.png)
+### Guide for Regular Contribution
 
-Image-2![](https://user-images.githubusercontent.com/74407676/229855134-b94c110b-063b-479b-9af1-9ba0254b99c0.png)
+Meanwhile the plug-in code is being published and checked, I can continuously work on restructuring and reorganizing the other documents, which are the basic working and do not require any major change.
+
+This would give us both time for plug-in as well as won't stop the writing work.
 
 
-### Getting started with contributing
 
-add screenshot of there contributions page
+### Other Pages like architectural overview and internal structure/working   
 
-• Contributing guidance can start with either providing installation tasks and then how to set it up, with addition of some code snippets like-
-```py
-#write your first hello world, after setting up the environment
-Or
-print("Hello World")
-```
-```yml
-service:"3"
-connect to ports 8080:8080
-```
-Like as mentioned above,which would be very helpful for new users to setup the environment.
+These are the pages which either can be added separately or within a single document, what matters is the User is able to find out what to look for and how to use it.
 
-### Building WasmEdge   
-Details on how to build things in WasmEdge and `how` to `start` doing things.
-Figuring `out` what to do and how `to-do`.
 
-and so on and so forth for every document.
-          
-
-More on these in detail below in  ~~Detailed Steps~~.
 
 
 **Timeline**
@@ -97,26 +73,21 @@ More on these in detail below in  ~~Detailed Steps~~.
 
 ## Official Overview
 
-- **March 31**: Accepted GSoD organisations announced;
-- **March 31--**: Document development begins
-- **May 10**: Deadline to hire technical Writer
-- **July - August**: Work Period | GSoD contributors work on their project with guidance from Mentors;
-- **September--**: Final Week.
+- **March 31**: Accepted GSoD organizations announced;
+- **April 28**: Deadline to hire technical Writer
+- **June-July**: Work Period | GSoD contributors work on their project with guidance from Mentors;
+- **August--**: Final Week.
 
 ## Detailed Steps
+  
+| Week | Working on | Details 
+| ----------- | ----------- |  ---------|
+| Week 1 | Basic syntax for both plug-in,contributor guide; | Basic syntax of both completed
+| Week 2 | Implementing Code Snippets, after testing | Code snippets and other links successfully verified
+| Week 3 | Testing/Edits/Changes | on suggestions by community
+| Week 4 | Plugin and contributor guides--completed! | Buffer time.
+| Week 5 |Final test+deploy | Checking working links and website.
 
-- **Till May 10**
-  - Publish and write basic demos for the documentation files.
-
-- **May 10- May 20**
-  - Start contacting the plug-in teams as well as well as code team to apply the code snippets wherever required.
-
-- **May 20- June 20**
-  - Getting the documents evaluated by the mentors as well as from the organisation.
-  - Adding more features, images as well as block diagrams to make it interactive
-
-- **June-July-August**
-    - Time to add the last bit touches, as well as I hope new development things get over till, so as to create documents for them as well.
 
   
 **Why me**
@@ -131,10 +102,11 @@ Coming onto Open-Source, as being just a admirer of how people provide things an
 I have created a [Github-Repo](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GSOD-23) for my this year's submissions, if you want to check out.
 Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.com/Bhardwaj-Himanshu/GSOD_2023/blob/main/WasmEdge/PROPOSAL.MD).
 
+## Side Work/Spare Time Work
+### Created a  WasmEdge Tutorial Website made using docusaurus [Link](https://bhardwaj-himanshu.github.io/my-wasmu-website/)
+### Created a Developing Plugins small section/guide using retype [Link](https://retype-wasmedge-himanshu-bhardwaj.netlify.app/)
 
-## Currently Working on the WasmEdge Tutorial Website made using docusaurus [Link](https://bhardwaj-himanshu.github.io/my-wasmu-website/)
-
-### TO-DO-LIST
+### Bucket-list achieved with docusaurus one
 - These are the things that have been done with the website.
    - [x] Made a cool looking demo
    - [x] Need to host the website
@@ -145,4 +117,9 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
    - [x] Make tutorial videos with voice and publish on youtube
      - [x] Record the video
      - [x] Record the audio
-     
+
+### Bucket-list achieved with retype one
+- These are the things that have been done with the website.
+   - [x] Similar things as above
+   - [x] Hosted the website
+   - [ ] Not able to achieve CI/CD pipeline using netlify--working on this<--                         
