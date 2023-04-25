@@ -28,7 +28,7 @@ I have **do have a little open source experience as of now**. But I do want to w
 
 **Plan**
 =====================
- ## How I look at it?
+## How I look at it?
  
  1.  **Easier onboarding New Developers**: Documenting a codebase is only effective if it is easily understandable by a new contributor, *making use of interactive gif's, videos and jotting down bigger steps into smaller ones help*, the person to work at his/her pace with little stress levels of breaking anything .*    
 
@@ -36,7 +36,7 @@ I have **do have a little open source experience as of now**. But I do want to w
     
 3.  **Improving Code Quality**: *When developers document their code, they tend to write cleaner, more organized code that is easier to understand and maintain. This can help prevent bugs and make the code more scalable.* 
     
- ## **Steps**
+## **Steps**
 - Writing the content
                - Yes, this just involves writing the content but let's see how we are going to achieve that, "cause it's easier said than done".
 
