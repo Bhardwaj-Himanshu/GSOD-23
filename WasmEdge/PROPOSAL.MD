@@ -9,7 +9,7 @@
 
 **Project Description**
 =====================
-- Name: [Reorganize the contributor guide](https://github.com/WasmEdge/GSoD2023#project-idea-reorganize-the-contributor-guide)
+- Name: [Reorganize the contributor guide, plug-ins Guide](https://github.com/WasmEdge/GSoD2023#project-idea-reorganize-the-contributor-guide)
 - Mentor:  @yiying , @juntao, @alabulei1
 - About it:
   - **What is it?**: WasmEdge provides a flexible plug-in architecture that allows developers to add more functionalities to it and take advantage of its many integrations and distribution channels through extensive open source partnerships. A plug-in could package and register native host functions in the WasmEdge runtime. The Wasm bytecode program could then call those native host functions.
