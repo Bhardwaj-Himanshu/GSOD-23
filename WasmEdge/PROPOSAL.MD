@@ -34,7 +34,7 @@ I have **do have a little open source experience as of now**. But I do want to w
 
 2.  **Knowledge Transfer**: *Documenting a codebase is also an effective way to transfer knowledge from one developer to another. When a developer leaves a project, they can leave behind documentation that will help their successor understand the codebase.*
     
-3.  **Improving Code Quality**: *When developers document their code, they tend to write cleaner, more organized code that is easier to understand and maintain. This can help prevent bugs and make the code more scalable. * 
+3.  **Improving Code Quality**: *When developers document their code, they tend to write cleaner, more organized code that is easier to understand and maintain. This can help prevent bugs and make the code more scalable.* 
     
 - ## **Steps**
 - Writing the content
