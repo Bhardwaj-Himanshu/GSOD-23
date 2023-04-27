@@ -103,7 +103,7 @@ I have created a [Github-Repo](https://github.com/Bhardwaj-Himanshu/Wasm_Edge_GS
 Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.com/Bhardwaj-Himanshu/GSOD_2023/blob/main/WasmEdge/PROPOSAL.MD).
 
 ## Side Work/Spare Time Work
-### Created a  WasmEdge Tutorial Website made using docusaurus [Link](https://bhardwaj-himanshu.github.io/my-wasmu-website/)
+### Created a  WasmEdge Tutorial Website made using docusaurus [Link](https://bhardwaj-himanshu.github.io/my-wasmu-website/), [Youtube_Video_Tutorial](https://youtu.be/nMnjvONvo1s)
 ### Created a Developing Plugins small section/guide using retype [Link](https://retype-wasmedge-himanshu-bhardwaj.netlify.app/)
 
 ### Bucket-list achieved with docusaurus one
