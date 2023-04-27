@@ -122,4 +122,5 @@ Also, try to look for a easter egg question in my [PROPOSAL.MD](https://github.c
 - These are the things that have been done with the website.
    - [x] Similar things as above
    - [x] Hosted the website
+   - [x] CI/CD using gh-pages
    - [ ] Not able to achieve CI/CD pipeline using netlify--working on this<--                         
