@@ -82,11 +82,17 @@ These are the pages which either can be added separately or within a single docu
   
 | Week | Working on | Details 
 | ----------- | ----------- |  ---------|
-| Week 1 | Basic syntax for both plug-in,contributor guide; | Basic syntax of both completed
-| Week 2 | Implementing Code Snippets, after testing | Code snippets and other links successfully verified
-| Week 3 | Testing/Edits/Changes | on suggestions by community
-| Week 4 | Plugin and contributor guides--completed! | Buffer time.
-| Week 5 |Final test+deploy | Checking working links and website.
+| Week 1-2 | Basic syntax for both plug-in,contributor guide; | Basic syntax of both completed
+| Week 3-4 | Implementing Code Snippets, after testing | Code snippets and other links successfully verified
+| Week 5-6 | Testing/Edits/Changes | on suggestions by community
+| Week 7-8 | Plugin and contributor guides--completed! | Buffer time.
+| Week 8 |Final test+deploy | Checking working links and website.
+
+The thing taken in consideration here is me working for 2 hrs/day, 5-6 days a week, in which 1-1 hour equally is spend everyday on learning as well as deploying some code/markdown files everyday!
+
+```bash
+Note:- The project time duration is exactly the same time as my summer vacations, and the hours could increase everyday, thus reducing the overall completion time
+```
 
 
   
