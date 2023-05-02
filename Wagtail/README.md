@@ -2,7 +2,7 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-Visit the website which is located at [Deployed-Website](https://bhardwaj-himanshu.github.io/my-waggu-website/)
+Visit the website which is located at [Deployed-Website](https://bhardwaj-himanshu.github.io/wagtail-demo.github.io/)
 
 ### Installation
 
